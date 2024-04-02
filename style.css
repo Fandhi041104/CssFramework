@@ -1,0 +1,12 @@
+* {
+    font-family: sans-serif;
+}
+
+.banner {
+    background: url("../gambar/gbr1.jpg") 
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #FFF;
+}
